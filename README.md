@@ -61,7 +61,7 @@
 ***
 
 ### ⬜ **Extras 2 - Personal**
-  1. ⬜ Programação Funcional
+  1. ⬜ Big O Notation
   2. ⬜ The Nature of Code
-  3. ⬜ Big O Notation
-  4. ⬜ ...
+  3. ⬜ Programação Funcional
+  4. ⬜ Zero-knowledge proof
