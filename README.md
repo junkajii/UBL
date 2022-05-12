@@ -23,11 +23,11 @@
   5. **Princípios de Desenvolvimento Ágil de Software**
 
 #### ⬜ **IV. Desenvolvimento Teórico**
-  1. **...**
-  2. **...**
-  3. **...**
-  4. **...**
-  5. **...**
+  1. **Desenvolvimento Ágil com Java Avançado**
+  2. **Cálculo I**
+  3. **Teoria dos Grafos**
+  4. **Sistemas Operacionais**
+  5. **Banco de Dados MySQL**
 
 #### ⬜ **V. Aprofundamento Técnico**
   1. **...**
