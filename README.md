@@ -37,11 +37,12 @@
   5. **Introdução ao Desenvolvimento de Aplicativos Android**
 
 #### ⬜ **VI. Tópicos Finais**
-  1. **...**
-  2. **...**
-  3. **...**
-  4. **...**
-  5. **...**
+  1. **Paradigmas de Programação**
+  2. **Exercícios de Paradigmas de Programação**
+  3. **Compiladores**
+  4. **Gerência da Qualidade de Software**
+  5. **Fundamentos da Inteligência Artificial**
+  6. **Metodologia da Pesquisa em Computação**
 
 #### ⬜ **VII. Especializações**
   1. **...**
