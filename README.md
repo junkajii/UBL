@@ -45,8 +45,7 @@
   6. **Metodologia da Pesquisa em Computação**
 
 #### ⬜ **VII. Especializações**
-  1. **...**
-  2. **...**
-  3. **...**
-  4. **...**
-  5. **...**
+  1. **Computação Gráfica**
+  2. **Embarcados**
+  3. **Desenvolvimento Web**
+  4. **Ciência de Dados**
