@@ -16,11 +16,11 @@
   6. **Noções de Direitos Autorais, parte II**
 
 #### ⬜ **III. Desenvolvimento Técnico**
-  1. **...**
-  2. **...**
-  3. **...**
-  4. **...**
-  5. **...**
+  1. **Programação Orientada a Objetos I**
+  2. **Bancos de Dados**
+  3. **Arquitetura de Computadores II**
+  4. **Álgebra Linear I**
+  5. **Princípios de Desenvolvimento Ágil de Software**
 
 #### ⬜ **IV. Desenvolvimento Teórico**
   1. **...**
