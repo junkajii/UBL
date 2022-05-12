@@ -30,11 +30,11 @@
   5. **Banco de Dados MySQL**
 
 #### ⬜ **V. Aprofundamento Técnico**
-  1. **...**
-  2. **...**
-  3. **...**
-  4. **...**
-  5. **...**
+  1. **Interfaces Humano-Computador**
+  2. **Estrutura de Dados**
+  3. **Redes de Computadores**
+  4. **Criação de Startups**
+  5. **Introdução ao Desenvolvimento de Aplicativos Android**
 
 #### ⬜ **VI. Tópicos Finais**
   1. **...**
