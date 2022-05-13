@@ -1,19 +1,19 @@
 # **CC Universidade Brasileira Livre 2022~20xx**
 
 ### ⬜ **I. Introdução a Computação**
-  1. ⬜ Introdução à Ciência da Computação com Python I
+  1. 🚧 Introdução à Ciência da Computação com Python I
   2. ⬜ Fundamentos Matemáticos para Computação
-  3. ⬜ Ciência da Computação 50 (CC50)
-  4. ⬜ Leitura e Produção de Textos
+  3. 🚧 Ciência da Computação 50 (CC50)
+  4. 🚧 Leitura e Produção de Textos
   5. ⬜ Circuitos Digitais
 
 ### ⬜ **II. Aprofundamento de Conceitos Introdutórios**
   1. ⬜ Introdução à Ciência da Computação com Python II
   2. ⬜ Estatística e Probabilidade
   3. ⬜ Arquitetura de Computadores I
-  4. ⬜ Noções de Inglês
+  4. 🚧  Noções de Inglês
   5. ✅ Noções de Direitos Autorais, parte I
-  6. ⬜ Noções de Direitos Autorais, parte II
+  6. 🚧 Noções de Direitos Autorais, parte II
 
 ### ⬜ **III. Desenvolvimento Técnico**
   1. ⬜ Programação Orientada a Objetos I
