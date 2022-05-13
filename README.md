@@ -11,7 +11,7 @@
   1. ⬜ Introdução à Ciência da Computação com Python II
   2. ⬜ Estatística e Probabilidade
   3. ⬜ Arquitetura de Computadores I
-  4. 🚧  Noções de Inglês
+  4. 🚧 Noções de Inglês
   5. ✅ Noções de Direitos Autorais, parte I
   6. 🚧 Noções de Direitos Autorais, parte II
 
