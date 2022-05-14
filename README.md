@@ -17,6 +17,7 @@
 
 ### ⬜ **III. Desenvolvimento Técnico**
   1. ⬜ Programação Orientada a Objetos I
+     1. ⬜ Programação Orientada a Objetos II
   2. ⬜ Bancos de Dados
   3. ⬜ Arquitetura de Computadores II
   4. ⬜ Álgebra Linear I
@@ -62,6 +63,7 @@
 
 ### ⬜ **Extras 2 - Personal**
   1. ⬜ Big O Notation
-  2. ⬜ The Nature of Code
-  3. ⬜ Programação Funcional
-  4. ⬜ Zero-knowledge proof
+  2. ⬜ TDD
+  3. ⬜ The Nature of Code
+  4. ⬜ Programação Funcional
+  5. ⬜ Zero-knowledge proof
