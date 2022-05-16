@@ -13,7 +13,7 @@
   3. ⬜ Arquitetura de Computadores I
   4. 🚧 Noções de Inglês
   5. ✅ Noções de Direitos Autorais, parte I
-  6. 🚧 Noções de Direitos Autorais, parte II
+  6. ✅ Noções de Direitos Autorais, parte II
 
 ### ⬜ **III. Desenvolvimento Técnico**
   1. ⬜ Programação Orientada a Objetos I
