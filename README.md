@@ -21,7 +21,7 @@
   2. ⬜ Bancos de Dados
   3. ⬜ Arquitetura de Computadores II
   4. ⬜ Álgebra Linear I
-  5. ⬜ Princípios de Desenvolvimento Ágil de Software
+  5. 🚧 Princípios de Desenvolvimento Ágil de Software
 
 ### ⬜ **IV. Desenvolvimento Teórico**
   1. ⬜ Desenvolvimento Ágil com Java Avançado
@@ -53,8 +53,8 @@
 
 ### ⬜ **Extras Recomendados**
   1. ✅ **Aprendendo a aprender**
-  2. ⬜ O semestre que falta na sua faculdade em ciência da computação
-  3. ⬜ Pensamento Crítico, Lógica e Argumentação
+  2. 🚧 O semestre que falta na sua faculdade em ciência da computação
+  3. 🚧 Pensamento Crítico, Lógica e Argumentação
   4. ⬜ Programação Linear
   5. ⬜ Introdução ao LaTeX
   6. ⬜ LaTeX para Iniciantes
@@ -62,7 +62,7 @@
 ***
 
 ### ⬜ **Extras 2 - Personal**
-  1. ⬜ Big O Notation
+  1. 🚧 Big O Notation
   2. ⬜ TDD
   3. ⬜ The Nature of Code
   4. ⬜ Programação Funcional
