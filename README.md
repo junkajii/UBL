@@ -34,7 +34,7 @@
   1. ⬜ Interfaces Humano-Computador
   2. ⬜ Estrutura de Dados
   3. ⬜ Redes de Computadores
-  4. 🚧 Criação de Startups
+  4. ✅ Criação de Startups
   5. ⬜ Introdução ao Desenvolvimento de Aplicativos Android
 
 ### ⬜ **VI. Tópicos Finais**
