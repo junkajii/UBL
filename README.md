@@ -21,7 +21,7 @@
   2. ⬜ Bancos de Dados
   3. ⬜ Arquitetura de Computadores II
   4. ⬜ Álgebra Linear I
-  5. 🚧 Princípios de Desenvolvimento Ágil de Software
+  5. ✅ Princípios de Desenvolvimento Ágil de Software
 
 ### ⬜ **IV. Desenvolvimento Teórico**
   1. ⬜ Desenvolvimento Ágil com Java Avançado
