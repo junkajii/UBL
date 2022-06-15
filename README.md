@@ -63,7 +63,5 @@
 
 ### ⬜ **Extras 2 - Personal**
   1. 🚧 Big O Notation
-  2. ⬜ TDD
   3. ⬜ The Nature of Code
-  4. ⬜ Programação Funcional
   5. ⬜ Zero-knowledge proof
