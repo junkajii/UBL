@@ -64,4 +64,5 @@
 ### ⬜ **Extras 2 - Personal**
   1. 🚧 Big O Notation
   3. ⬜ The Nature of Code
+  4. ⬜ [Cyber Security](https://github.com/brootware/awesome-cyber-security-university)
   5. ⬜ Zero-knowledge proof
