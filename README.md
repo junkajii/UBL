@@ -4,7 +4,7 @@
   1. 🚧 Introdução à Ciência da Computação com Python I
   2. ⬜ Fundamentos Matemáticos para Computação
   3. 🚧 Ciência da Computação 50 (CC50)
-  4. 🚧 Leitura e Produção de Textos
+  4. ✅ Leitura e Produção de Textos
   5. ⬜ Circuitos Digitais
 
 ### ⬜ **II. Aprofundamento de Conceitos Introdutórios**
