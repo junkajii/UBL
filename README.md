@@ -41,7 +41,7 @@
   1. ⬜ Paradigmas de Programação
   2. ⬜ Exercícios de Paradigmas de Programação
   3. ⬜ Compiladores
-  4. ⬜ Gerência da Qualidade de Software
+  4. ✅ Gerência da Qualidade de Software
   5. ⬜ Fundamentos da Inteligência Artificial
   6. ⬜ Metodologia da Pesquisa em Computação
 
