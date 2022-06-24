@@ -31,7 +31,7 @@
   5. ⬜ Banco de Dados MySQL
 
 ### ⬜ **V. Aprofundamento Técnico**
-  1. ⬜ Interfaces Humano-Computador
+  1. ✅ Interfaces Humano-Computador
   2. ⬜ Estrutura de Dados
   3. ⬜ Redes de Computadores
   4. ✅ Criação de Startups
