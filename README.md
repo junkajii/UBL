@@ -52,7 +52,7 @@
   4. ⬜ Ciência de Dados
 
 ### ⬜ **Extras Recomendados**
-  1. ✅ **Aprendendo a aprender**
+  1. ✅ Aprendendo a aprender
   2. 🚧 O semestre que falta na sua faculdade em ciência da computação
   3. 🚧 Pensamento Crítico, Lógica e Argumentação
   4. ⬜ Programação Linear
