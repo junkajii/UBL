@@ -54,7 +54,7 @@
 ### ⬜ **Extras Recomendados**
   1. ✅ Aprendendo a aprender
   2. 🚧 O semestre que falta na sua faculdade em ciência da computação
-  3. 🚧 Pensamento Crítico, Lógica e Argumentação
+  3. ✅ Pensamento Crítico, Lógica e Argumentação
   4. ⬜ Programação Linear
   5. ⬜ Introdução ao LaTeX
   6. ⬜ LaTeX para Iniciantes
